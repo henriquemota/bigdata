@@ -1,5 +1,3 @@
-// ...existing code...
-
 # BigData — Arquivos da disciplina
 
 Bem-vindo(a)! Este repositório contém notebooks e scripts usados nas aulas da disciplina. O objetivo do README é explicar rapidamente o que há aqui e como preparar o ambiente para rodar os exemplos (incluindo criar um ambiente virtual em Python).
